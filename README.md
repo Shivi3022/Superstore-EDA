@@ -69,8 +69,8 @@ superstore_eda/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/superstore-eda.git
-cd superstore-eda
+git clone https://github.com/Shivi3022/Superstore-EDA.git
+cd Superstore-EDA
 ```
 
 **2. Install dependencies**
